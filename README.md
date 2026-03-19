@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishwapathirana&label=Profile%20views&color=0e75b6&style=flat" alt="vishwapathirana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwapathirana" alt="vishwapathirana" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/VishwaPathirana)"><img src="https://github-profile-trophy.vercel.app/?username=vishwapathirana" alt="vishwapathirana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vishwakamal3" target="blank"><img src="https://img.shields.io/twitter/follow/vishwakamal3?logo=twitter&style=for-the-badge" alt="vishwakamal3" /></a> </p>
 
